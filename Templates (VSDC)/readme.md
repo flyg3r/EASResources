@@ -7,4 +7,4 @@
 In order to properly use and edit these files, you will need the following:
 - EASyPLUS: VCR EAS font
 - NPAS/AlertReady DASDEC: Luxi Mono Bold font
-- NPAS/AlertReady Scroll Variant: Arial Bold font
+- NPAS/AlertReady Scroll Variant: Arial Black font
