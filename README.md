@@ -7,4 +7,4 @@ Want to use these resources? There are two options.
 2. To get the whole pack, press Code -> Download ZIP.
 ## Credits
 - luennix - EASyKIT
-- xyzlojones - SAGE EAS ENDEC Macros
+- xyzlojones - SAGE EAS ENDEC Macros and EAS Resources Google Drive
